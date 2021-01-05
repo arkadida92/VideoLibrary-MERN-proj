@@ -1,0 +1,17 @@
+{
+    "permissions": [
+        {
+            "Id": "5fcca4dbaddc8e2e98ef240e",
+            "Permissions": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+            ]
+        }
+    ]
+}
